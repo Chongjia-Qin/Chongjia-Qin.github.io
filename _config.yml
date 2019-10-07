@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "As you grow older, you'll find the only things you regret are the things you didn't do.<br>成长会让人明白，唯一后悔的只是那些自己不曾尝试的事。<br>纸上得来终觉浅，绝知此事要躬行"
+sidebar-about-description: "As you grow older, you'll find the only things you regret are the things you didn't do.<br>成长会让人明白，唯一后悔的只是那些自己不曾尝试的事。"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
