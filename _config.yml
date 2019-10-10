@@ -97,8 +97,6 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
-<<<<<<< HEAD
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
