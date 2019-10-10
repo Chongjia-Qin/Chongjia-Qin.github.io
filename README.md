@@ -1,7 +1,7 @@
 Chuck Blog
 ========
 
-### [View Live Chuck Blog &rarr;](https://https://chongjia-qin.github.io/)  
+### [View Live Chuck Blog &rarr;](https://chongjia-qin.github.io/)  
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
