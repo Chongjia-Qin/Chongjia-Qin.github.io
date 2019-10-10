@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-# <<<<<<< HEAD
+
 weibo_username:     chuck
 zhihu_username:     chuck
 github_username:    chuck
@@ -21,7 +21,7 @@ twitter_username:   chuck
 #facebook_username:  chuck
 #linkedin_username:  firstname-lastname-idxxxx
 
->>>>>>> parent of b1b9ce8... [self] include .md for about; update config/avatar
+
 
 
 
