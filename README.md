@@ -8,7 +8,7 @@ License
 -------
 
 Apache License 2.0.
-Copyright (c) 2015-2020 Huxpro
+Copyright (c) 2019-2025 Chongjia-Qin
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+
+Copyright (c) 2019-2025 Blackrock Digital LLC.
