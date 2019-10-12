@@ -14,10 +14,10 @@ future: true
 # SNS settings
 RSS: false
 
-weibo_username:     chuck
-zhihu_username:     chuck
-github_username:    chuck
-twitter_username:   chuck
+weibo_username:     https://weibo.com/?topnav=1&mod=logo
+zhihu_username:     https://www.zhihu.com/signin?next=%2F
+github_username:    https://github.com/
+twitter_username:   https://twitter.com/
 #facebook_username:  chuck
 #linkedin_username:  firstname-lastname-idxxxx
 
