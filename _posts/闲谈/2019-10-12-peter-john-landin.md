@@ -4,8 +4,11 @@ subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
 layout: post
 author: "Chongjia Qin"
 header-style: text
+
 tags:
   - 闲谈
+  - 音乐
+  - 知乎
 ---
 
 > [wiki](https://en.wikipedia.org/wiki/Peter_Landin) | [维基](https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%85%B0%E4%B8%81)
