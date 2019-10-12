@@ -5,7 +5,7 @@ layout: post
 author: "Chongjia Qin"
 header-style: text
 tags:
-  - 知乎
+  - 闲谈
 ---
 
 > [wiki](https://en.wikipedia.org/wiki/Peter_Landin) | [维基](https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%85%B0%E4%B8%81)
