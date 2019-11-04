@@ -1,5 +1,5 @@
 ---
-title: "英雄联盟"
+title: "League of Legends"
 subtitle: "关于英雄联盟这款游戏"
 layout: post
 author: "Chongjia Qin"
