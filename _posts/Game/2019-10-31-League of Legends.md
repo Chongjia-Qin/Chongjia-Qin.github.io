@@ -4,7 +4,7 @@ subtitle: "关于英雄联盟这款游戏"
 layout: post
 author: "Chongjia Qin"
 header-style: text
-header-img: "/img/1.jpg"
+header-img: "/img/1-bg.jpg"
 header-mask: 0.4
 
 tags:
